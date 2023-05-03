@@ -1,0 +1,2 @@
+Para la interaccion con el usuario se creo un menu por consola, cada que se quiera crear, buscar, eliminar o listar un archivo, el programa le solicitará el nombre de usuario
+esto es por la implementacion del sistema de dorectorio de dos niveles
